@@ -8,6 +8,7 @@ employee management and finances. This system will not only help to overcome the
 the store organized for better customer service.
 
 Business Problems Addressed:
+
  Allow retail store administration to check in-store stock availability
  To improve customer experience by providing an ability to check details of the customers which helps to
 serve the customers better (as this data gives an awareness of the tastes and preferences of the customers)
